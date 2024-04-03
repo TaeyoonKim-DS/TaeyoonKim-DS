@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **TaeyoonKim-DS/TaeyoonKim-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Taeyoon Kim - Data Scientist in Brand Protection
+### Taeyoon Kim - Data Scientist in Brand Protection 👋
 
 ## About Me
 Hello, I'm Taeyoon, a passionate Data Scientist specializing in brand protection, currently living in Edinburgh, Scotland. With a background in General Law and Business Management, and a Master's in Management from the University of Edinburgh, I've been merging my knowledge of IP law with data science to protect brands globally.
